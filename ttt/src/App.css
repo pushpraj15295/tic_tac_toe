@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.Block {
+  width: 190px;
+  height: 145px;
+  border: 6px solid black;
+  background-size: cover;
+  display: inline-block;
+  border-radius: 10px;
+  margin-right: 3px;
+}
+
+.mark1{
+  background-image: url(images/dot.png);
+  background-color: dimgray;
+  
+}
+.mark2{
+  background-image: url(images/cross.png);
+  background-color: dimgray;
+  
+}
+.ttt{ 
+    font-size:50px;
+    color:green;
+}
